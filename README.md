@@ -7,7 +7,7 @@ released for Scala 2.10.
 
 ## Details
 
-Parallel combinator support is provided for map(), filter(), zipWith()
+Specific parallel combinator support is provided for map(), filter(), zipWith()
 and prefixReduce().
 
 prefixReduce() implementation is based on the parallel prefix-sum
