@@ -1,7 +1,7 @@
 # LazyStreams
 
 This is a experimental combinator library that supports parallel
-computation.
+computations.
 Underlying implementation utilizes Akka Futures, which was recently
 released for Scala 2.10.
 
